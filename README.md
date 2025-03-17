@@ -1,9 +1,10 @@
 # Hi, I am Sanjay
 
-**"Engineering is the art of directing the great sources of power in nature for the use and convenience of man."**  
-— Sir M. Visvesvaraya  
+**"The ture measure of success is not just in what you achive, but also in how you impact others pasitively."** 
 
-Welcome to **Sanjay kale**, a **Frountend software Development** repository inspired by the legendary Indian engineer **Sir M. Visvesvaraya**. This repo is a hub for ** dynamic web applications ** using frountend technologies. 
+     --Sir Ratan Tata
+
+Welcome to **Sanjay kale**, a **Frountend software Development** repository inspired by the legendary man **Sir Ratan Tata**. This repo is a hub for **dynamic web applications** using frountend technologies. 
 
 
 ---
